@@ -3,7 +3,6 @@
 ## Group Members:
 - Anas Aldraihem - 443102187
 - Saud Alsmari - 443101558
-- Turki Alhussan - 443101793
 
 ---
 
